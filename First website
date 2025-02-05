@@ -1,0 +1,33 @@
+<!DOCTYPE>
+<html>
+	<head> FIRST WEB APPLICATION </head>
+<body>
+
+<h1> WELCOME TO WEB CLASS </h1>
+<h2> WELCOME TO WEB CLASS </h2>
+<h3> WELCOME TO WEB CLASS </h3>
+<h4> WELCOME TO WEB CLASS </h4>
+<h5> WELCOME TO WEB CLASS </h5>
+<h6> WELCOME TO WEB CLASS </h6>
+
+<p> The BSCS program is a comprehensive undergraduate degree focused on the fundamental principles of computer science, technology, and software development. Typically spanning four years, the program equips students with a deep understanding of programming languages, computer networks, data structures, algorithms, and software engineering.The BSCS program is a comprehensive undergraduate degree focused on the fundamental principles of computer science, technology, and software development. Typically spanning four years, the program equips students with a deep understanding of programming languages, computer networks, data structures, algorithms, and software engineering.</p>
+<br>
+<p> Setting <i>up the development</i> <u>environment</u> for code</p>
+<a href = "https://www.google.com">Open Google </a> <br> <br>
+
+<a href = "https://www.ucu.ac.ug">UCU LANDING SITE </a> <br><hr><br>
+
+<img src = "image.jpeg" width="400px" height="200px" alt="Beautiful art"> <br> <hr>
+
+<p> A worship song by Judikay </p>
+
+<video width="320px" height="300px" controls>
+    <source src="Omemma Judikay.mp4" type="video/mp4">
+    Your browser does not support the video type
+</video>
+
+
+
+
+</body>
+</html>
